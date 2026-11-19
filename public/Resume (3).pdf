@@ -1,0 +1,169 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 8546 >>
+stream
+0.560 0.690 0.810 RG 0.65 w 22 22 m 573 22 l S
+0.560 0.690 0.810 RG 0.65 w 573 22 m 573 820 l S
+0.560 0.690 0.810 RG 0.65 w 573 820 m 22 820 l S
+0.560 0.690 0.810 RG 0.65 w 22 820 m 22 22 l S
+0.150 0.310 0.590 rg BT /F2 21.5 Tf 1 0 0 1 222.25 795.00 Tm (PRIYANSHU DUBEY) Tj ET
+0.060 0.420 0.580 rg BT /F2 9.7 Tf 1 0 0 1 161.02 777.00 Tm (VULNERABILITY ASSESSMENT & PENETRATION TESTING \(VAPT\) ANALYST) Tj ET
+0.310 0.370 0.450 rg BT /F1 8.5 Tf 1 0 0 1 217.11 758.00 Tm (Delhi, India   |) Tj ET
+0.060 0.420 0.580 rg BT /F1 8.5 Tf 1 0 0 1 277.09 758.00 Tm (priyanhudubey454@gmail.com) Tj ET
+0.060 0.420 0.580 rg BT /F1 8 Tf 1 0 0 1 225.26 741.00 Tm (linkedin.com/in/priyanshu-dubey-a1455361) Tj ET
+0.060 0.420 0.580 rg BT /F1 8 Tf 1 0 0 1 163.98 728.00 Tm (github.com/priyanshudubey454-hue) Tj ET
+0.310 0.370 0.450 rg BT /F1 8 Tf 1 0 0 1 282.54 728.00 Tm (  |  ) Tj ET
+0.060 0.420 0.580 rg BT /F1 8 Tf 1 0 0 1 293.74 728.00 Tm (cyber-portfolio-brown-sigma.vercel.app) Tj ET
+0.150 0.310 0.590 RG 1.35 w 43 718 m 552 718 l S
+0.150 0.310 0.590 rg BT /F2 11.2 Tf 1 0 0 1 43.00 703.00 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.760 0.820 0.890 RG 0.55 w 171 700 m 552 700 l S
+0.140 0.180 0.230 rg BT /F1 8.7 Tf 1 0 0 1 43.00 684.00 Tm (Cybersecurity postgraduate \(MCA - Cybersecurity\) with hands-on lab and project experience in vulnerability) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.7 Tf 1 0 0 1 43.00 672.80 Tm (assessment, network traffic analysis and security event review. Practised Nmap, Burp Suite and Metasploit in) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.7 Tf 1 0 0 1 43.00 661.60 Tm (controlled lab environments; documented a Metasploitable2 assessment with CVE analysis and remediation) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.7 Tf 1 0 0 1 43.00 650.40 Tm (recommendations. Seeking an entry-level VAPT role.) Tj ET
+0.150 0.310 0.590 rg BT /F2 11.2 Tf 1 0 0 1 43.00 639.20 Tm (VAPT & TECHNICAL SKILLS) Tj ET
+0.760 0.820 0.890 RG 0.55 w 171 636.1999999999998 m 552 636.1999999999998 l S
+0.140 0.180 0.230 rg BT /F2 8.35 Tf 1 0 0 1 43.00 620.20 Tm (Vulnerability assessment:) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.3 Tf 1 0 0 1 166.00 620.20 Tm (Nmap, Burp Suite, Metasploit \(lab use\); findings documentation, CVE analysis, remediation recommendations) Tj ET
+0.140 0.180 0.230 rg BT /F2 8.35 Tf 1 0 0 1 43.00 608.00 Tm (Network analysis:) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.3 Tf 1 0 0 1 166.00 608.00 Tm (Wireshark, packet capture; TCP/IP, DNS, HTTP/HTTPS) Tj ET
+0.140 0.180 0.230 rg BT /F2 8.35 Tf 1 0 0 1 43.00 595.80 Tm (Systems & scripting:) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.3 Tf 1 0 0 1 166.00 595.80 Tm (Kali/Linux, Windows 11, VMware, Python, Bash, SQL, Git/GitHub) Tj ET
+0.140 0.180 0.230 rg BT /F2 8.35 Tf 1 0 0 1 43.00 583.60 Tm (Security fundamentals:) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.3 Tf 1 0 0 1 166.00 583.60 Tm (Security-event review, incident triage fundamentals, phishing awareness) Tj ET
+0.150 0.310 0.590 rg BT /F2 11.2 Tf 1 0 0 1 43.00 571.40 Tm (PROJECTS) Tj ET
+0.760 0.820 0.890 RG 0.55 w 171 568.3999999999996 m 552 568.3999999999996 l S
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 552.40 Tm (Metasploitable2 Vulnerability Assessment) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 540.20 Tm (Practised vulnerability assessment in an isolated VMware lab; documented findings, CVE analysis and remediation) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 529.00 Tm (recommendations.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 517.80 Tm (https://github.com/priyanshudubey454-hue/metasploitable2-vulnerability-assessment) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 503.80 Tm (PortSwigger Web Security Academy - Brute-Force Lab) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 491.60 Tm (Solved an authentication lab using brute-force techniques and analyzed login behavior in a controlled training) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 480.40 Tm (environment.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 469.20 Tm (https://portswigger.net/web-security/authentication) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 455.20 Tm (OWASP Broken Web Applications - Web App Analysis) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 443.00 Tm (Used OWASP Broken Web Applications for hands-on practice and analyzed security weaknesses in intentionally) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 431.80 Tm (vulnerable web apps.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 420.60 Tm (https://github.com/OWASP/www-project-broken-web-applications) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 406.60 Tm (Packet Sentinel - Network Packet Analyzer) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 394.40 Tm (Built a Python-based packet-analysis application with a web interface; documented the project and live demo.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 383.20 Tm (https://github.com/priyanshudubey454-hue/packet_sentinel) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.35 Tf 1 0 0 1 53.00 369.20 Tm (Live demo: https://packet-sentinel-zeta.vercel.app/) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 359.70 Tm (Wireshark Network Traffic Analysis) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 347.50 Tm (Practised packet capture and analysis of TCP/IP, DNS and HTTP traffic in a Kali/Linux lab.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 336.30 Tm (https://github.com/priyanshudubey454-hue/wireshark) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 322.30 Tm (Windows Security Event Review - VMware Lab) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 310.10 Tm (Reviewed Windows 11 Event Viewer records during controlled lab exercises to understand system activity and security) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 298.90 Tm (events.) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 284.20 Tm (FraudShield Pro - Python/Streamlit Dashboard) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 272.00 Tm (Created a fraud-detection dashboard prototype with transaction analysis and anomaly-detection components.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 260.80 Tm (https://github.com/priyanshudubey454-hue/fraud_detection_project) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 246.80 Tm (Linux Monitoring Dashboard) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 234.60 Tm (Linux system monitoring dashboard project.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 223.40 Tm (https://github.com/priyanshudubey454-hue/linux-monitoring-dashboard) Tj ET
+0.140 0.180 0.230 rg BT /F2 9.25 Tf 1 0 0 1 43.00 209.40 Tm (Phishing Project) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.75 Tf 1 0 0 1 53.00 197.20 Tm (Phishing project materials and work samples.) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 186.00 Tm (https://github.com/priyanshudubey454-hue/phishing) Tj ET
+0.150 0.310 0.590 rg BT /F2 11.2 Tf 1 0 0 1 43.00 172.00 Tm (EDUCATION) Tj ET
+0.760 0.820 0.890 RG 0.55 w 171 168.99999999999972 m 552 168.99999999999972 l S
+0.140 0.180 0.230 rg BT /F2 8.45 Tf 1 0 0 1 43.00 153.00 Tm (MCA - Cybersecurity | Indira Gandhi National Open University \(IGNOU\)) Tj ET
+0.310 0.370 0.450 rg BT /F1 8.2 Tf 1 0 0 1 506.00 153.00 Tm (2026-Present) Tj ET
+0.140 0.180 0.230 rg BT /F2 8.45 Tf 1 0 0 1 43.00 140.60 Tm (BCA | Maharishi Dayanand University / Shikshapeeth College | CGPA: 6.3/10) Tj ET
+0.310 0.370 0.450 rg BT /F1 8.2 Tf 1 0 0 1 506.00 140.60 Tm (2023-2026) Tj ET
+0.140 0.180 0.230 rg BT /F2 8.45 Tf 1 0 0 1 43.00 128.20 Tm (Class XII \(CBSE\) | 86%) Tj ET
+0.310 0.370 0.450 rg BT /F1 8.2 Tf 1 0 0 1 506.00 128.20 Tm (2023) Tj ET
+0.150 0.310 0.590 rg BT /F2 11.2 Tf 1 0 0 1 43.00 115.80 Tm (CERTIFICATIONS & LABS) Tj ET
+0.760 0.820 0.890 RG 0.55 w 171 112.7999999999997 m 552 112.7999999999997 l S
+0.140 0.180 0.230 rg BT /F1 8.25 Tf 1 0 0 1 43.00 96.80 Tm (SOC Analyst Level 1 & 2 Masterclass - Selfcode / Udemy \(July 2026\) | Google Cybersecurity Professional) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.25 Tf 1 0 0 1 43.00 86.60 Tm (Certificate) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.25 Tf 1 0 0 1 43.00 76.40 Tm (Cisco Networking Academy: Introduction to Cybersecurity | Networking Basics | Introduction to Packet Tracer) Tj ET
+0.140 0.180 0.230 rg BT /F1 8.25 Tf 1 0 0 1 53.00 66.20 Tm (TryHackMe: Top 30% globally | Silver League | 15+ rooms completed) Tj ET
+0.060 0.420 0.580 rg BT /F1 7.7 Tf 1 0 0 1 53.00 56.00 Tm (TryHackMe profile: tryhackme.com/p/priyanshudubey454) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [276.09 756.00 379.90 768.50] /Border [0 0 0] /A << /S /URI /URI (mailto:priyanhudubey454@gmail.com) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [224.26 739.00 371.74 751.00] /Border [0 0 0] /A << /S /URI /URI (https://linkedin.com/in/priyanshu-dubey-a1455361) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [162.98 726.00 284.54 738.00] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [292.74 726.00 433.02 738.00] /Border [0 0 0] /A << /S /URI /URI (https://cyber-portfolio-brown-sigma.vercel.app) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 515.80 340.36 527.50] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue/metasploitable2-vulnerability-assessment) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 467.20 236.72 478.90] /Border [0 0 0] /A << /S /URI /URI (https://portswigger.net/web-security/authentication) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 418.60 271.83 430.30] /Border [0 0 0] /A << /S /URI /URI (https://github.com/OWASP/www-project-broken-web-applications) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 381.20 254.74 392.90] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue/packet_sentinel) >> >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 367.20 223.61 378.55] /Border [0 0 0] /A << /S /URI /URI (https://packet-sentinel-zeta.vercel.app/) >> >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 334.30 234.56 346.00] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue/wireshark) >> >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 258.80 285.85 270.50] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue/fraud_detection_project) >> >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 221.40 292.78 233.10] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue/linux-monitoring-dashboard) >> >>
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 184.00 228.87 195.70] /Border [0 0 0] /A << /S /URI /URI (https://github.com/priyanshudubey454-hue/phishing) >> >>
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [52.00 54.00 239.34 65.70] /Border [0 0 0] /A << /S /URI /URI (https://tryhackme.com/p/priyanshudubey454) >> >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000362 00000 n 
+0000000432 00000 n 
+0000000507 00000 n 
+0000009105 00000 n 
+0000009264 00000 n 
+0000009438 00000 n 
+0000009604 00000 n 
+0000009777 00000 n 
+0000009984 00000 n 
+0000010161 00000 n 
+0000010347 00000 n 
+0000010529 00000 n 
+0000010695 00000 n 
+0000010871 00000 n 
+0000011061 00000 n 
+0000011254 00000 n 
+0000011429 00000 n 
+trailer
+<< /Size 21 /Root 1 0 R >>
+startxref
+11594
+%%EOF
